@@ -1,29 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "2021 NFL Big Data Bowl"
 date:   2022-01-20 15:07:11 -0600
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Every year the NFL hosts a sports analytics competition called the Big Data Bowl. It provides participants with the opportunity to work with NFL player and ball tracking data from past games, an extremely rare data set to get your hands on.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The 2021 theme was all about the defensive secondary in American football. My team looked at which defenders in the league had the lowest completion percentage relative to what we'd expect based on factors such as distance to throw when they were the primary targeted defender.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+For more information, you can read the full write up [here](https://www.kaggle.com/mjegle/the-geometry-of-lockdown-coverage-and-ball-skills)
